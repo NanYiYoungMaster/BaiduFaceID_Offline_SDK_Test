@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiduFaceID_Offline_SDK_Test", "BaiduFaceID_Offline_SDK_Test.csproj", "{F34BC5BE-9A1D-E2AB-41F2-AA8AF4C520AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiduFaceID_Offline_SDK_Test.Editor", "BaiduFaceID_Offline_SDK_Test.Editor.csproj", "{64B33B7B-F694-7B29-18DB-E05ECDC3E241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F34BC5BE-9A1D-E2AB-41F2-AA8AF4C520AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34BC5BE-9A1D-E2AB-41F2-AA8AF4C520AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34BC5BE-9A1D-E2AB-41F2-AA8AF4C520AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34BC5BE-9A1D-E2AB-41F2-AA8AF4C520AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B33B7B-F694-7B29-18DB-E05ECDC3E241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B33B7B-F694-7B29-18DB-E05ECDC3E241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B33B7B-F694-7B29-18DB-E05ECDC3E241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B33B7B-F694-7B29-18DB-E05ECDC3E241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
